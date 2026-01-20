@@ -794,11 +794,6 @@ Oracle should map TMS claims to Oracle user fields:
 - ✅ Secure token-based access
 - ✅ No consent screen (auto-approved)
 
-### What This Does NOT Provide
-- ❌ Course launches (that would be LTI 1.3)
-- ❌ Grade synchronization (that would be LTI AGS)
-- ❌ Roster provisioning (that would be LTI NRPS)
-
 ### Flow Summary
 1. User clicks "Login" on Oracle
 2. Oracle redirects to TMS
